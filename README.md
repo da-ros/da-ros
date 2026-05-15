@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/github-hero.jpg" alt="Pedro Rodas — AI/ML Engineer building agentic systems, RAG pipelines, and AI-native products" width="100%" />
+  <img src="./assets/github-hero.jpg" alt="Pedro Rodas — AI/ML Engineer building agentic systems, RAG pipelines, and AI-native products" width="100%" style="border-radius: 12px;" />
 </p>
 
 <h1 align="center">Pedro Rodas</h1>
