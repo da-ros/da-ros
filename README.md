@@ -2,7 +2,7 @@
   <img src="./assets/github-hero.png" alt="Pedro Rodas — AI/ML Engineer building agentic systems, RAG pipelines, and AI-native products" width="100%" />
 </p>
 
-<h1 align="center">Pedro Rodas</h1>
+<h2 align="center">Hi, I'm Pedro Rodas</h2>
 
 <h3 align="center">
   AI/ML Engineer building agentic systems, RAG pipelines, and AI-native products.
