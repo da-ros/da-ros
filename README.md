@@ -2,16 +2,18 @@
   <img src="./assets/github-hero.png" alt="Pedro Rodas — AI/ML Engineer building agentic systems, RAG pipelines, and AI-native products" width="100%" />
 </p>
 
-<h2 align="center">Hi, I'm Pedro Rodas</h2>
+<h1 align="center">Hi, I'm Pedro Rodas</h1>
 
 <h3 align="center">
   AI/ML Engineer building agentic systems, RAG pipelines, and AI-native products.
 </h3>
 
 <p align="center">
-  <a href="https://pedrorodas.com">Portfolio</a> ·
-  <a href="https://github.com/da-ros?tab=repositories">Projects</a> ·
-  <a href="https://www.linkedin.com/in/pedro-rodas-m">LinkedIn</a>
+  <a href="https://pedrorodas.com"><img src="https://img.shields.io/badge/Portfolio-A855F7?style=flat&logoColor=white" alt="Portfolio" height="32"></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/da-ros?tab=repositories"><img src="https://img.shields.io/badge/Projects-6B7280?style=flat&logoColor=white" alt="Projects" height="32"></a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/pedro-rodas-m"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="32"></a>
 </p>
 
 ---
