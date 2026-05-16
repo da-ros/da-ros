@@ -9,7 +9,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://pedrorodas.com"><img src="./assets/badge-portfolio.svg" alt="Portfolio" width="85" height="30"></a>
+  <a href="https://pedrorodas.com"><img src="./assets/badge-portfolio.svg" alt="Portfolio" width="102" height="30"></a>
   &nbsp;&nbsp;
   <a href="https://github.com/da-ros?tab=repositories"><img src="./assets/badge-projects.svg" alt="Projects" width="85" height="30"></a>
   &nbsp;&nbsp;
