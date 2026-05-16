@@ -67,5 +67,5 @@ I’m focused on building AI systems that are not just demos, but usable workflo
 
 **Kankaru Logistics Platform** — startup product design for logistics workflows, last-mile coordination, and super-app services across China/SEA-style local service markets.
 
-View case study → <a href="https://www.pedrorodas.com/#projects">pedrorodas.com/#projects</a>
+View case study → <a href="https://www.pedrorodas.com/#projects">pedrorodas.com</a>
 
