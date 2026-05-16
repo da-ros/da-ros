@@ -9,11 +9,11 @@
 </h3>
 
 <p align="center">
-  <a href="https://pedrorodas.com"><img src="https://img.shields.io/badge/Portfolio-A855F7?style=flat&logoColor=white" alt="Portfolio" height="32"></a>
+  <a href="https://pedrorodas.com"><img src="https://img.shields.io/badge/Portfolio-A855F7?style=flat&logoColor=white" alt="Portfolio" height="40"></a>
   &nbsp;&nbsp;
-  <a href="https://github.com/da-ros?tab=repositories"><img src="https://img.shields.io/badge/Projects-6B7280?style=flat&logoColor=white" alt="Projects" height="32"></a>
+  <a href="https://github.com/da-ros?tab=repositories"><img src="https://img.shields.io/badge/Projects-6B7280?style=flat&logoColor=white" alt="Projects" height="40"></a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/pedro-rodas-m"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="32"></a>
+  <a href="https://www.linkedin.com/in/pedro-rodas-m"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="40"></a>
 </p>
 
 ---
